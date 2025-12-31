@@ -17,10 +17,10 @@
         Explora el mundo de Tonkori
         <br/>
         <br/>
-        <a href="/tonkori.exe">
+        <a href="/Tonkori.exe">
             <img src="https://img.shields.io/badge/PC-darkblue?logo=airplay-video&logoColor=white">
         </a>&nbsp;&nbsp;
-        <a href="/tonkori.console.exe">
+        <a href="/Tonkori.console.exe">
             <img src="https://img.shields.io/badge/Console-darkgreen?logo=apple-arcade&logoColor=white">
         </a>
         <br/>
