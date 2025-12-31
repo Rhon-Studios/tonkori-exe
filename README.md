@@ -186,6 +186,7 @@ En la creación de Tonkori, se han usado varias herramientas para diversos fines
 * ![krita-shield]
 * ![notion-shield]
 * ![react-shield]
+* ![aseprite-shield]
 
 <p align="right">(<a href="#tonkori-readme-top">Volver al inicio</a>)</p>
 
@@ -256,6 +257,7 @@ Puede ponerse en contacto con Rhon de diversas formas:
 [krita-shield]: https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B&style=for-the-badge
 [notion-shield]: https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge
 [react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[aseprite-shield]: https://img.shields.io/badge/Asprite-black?logo=aseprite&logoColor-white&style=for-the-badge
 
 [rash-shield]:https://img.shields.io/badge/Rash-designer-orange?style=for-the-badge
 [milo-shield]:https://img.shields.io/badge/Milo-programer-purple?style=for-the-badge
