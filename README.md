@@ -261,6 +261,6 @@ Puede ponerse en contacto con Rhon de diversas formas:
 
 [rash-shield]:https://img.shields.io/badge/Rash-designer-orange?style=for-the-badge
 [milo-shield]:https://img.shields.io/badge/Milo-programer-purple?style=for-the-badge
-[rash-url]:https://github.com/rash-xx
+[rash-url]:https://github.com/rashxx-exe
 [milo-url]:https://github.com/jumelleCL
 [blank]:https://google.com
